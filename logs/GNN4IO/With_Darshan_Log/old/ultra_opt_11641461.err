@@ -1,0 +1,24 @@
+[cn095.delta.ncsa.illinois.edu:3023764] mca: base: components_register: registering framework ras components
+[cn095.delta.ncsa.illinois.edu:3023764] mca: base: components_register: found loaded component simulator
+[cn095.delta.ncsa.illinois.edu:3023764] mca: base: components_register: component simulator register function successful
+[cn095.delta.ncsa.illinois.edu:3023764] mca: base: components_register: found loaded component slurm
+[cn095.delta.ncsa.illinois.edu:3023764] mca: base: components_register: component slurm register function successful
+[cn095.delta.ncsa.illinois.edu:3023764] mca: base: components_open: opening ras components
+[cn095.delta.ncsa.illinois.edu:3023764] mca: base: components_open: found loaded component simulator
+[cn095.delta.ncsa.illinois.edu:3023764] mca: base: components_open: found loaded component slurm
+[cn095.delta.ncsa.illinois.edu:3023764] mca: base: components_open: component slurm open function successful
+[cn095.delta.ncsa.illinois.edu:3023764] mca:base:select: Auto-selecting ras components
+[cn095.delta.ncsa.illinois.edu:3023764] mca:base:select:(  ras) Querying component [simulator]
+[cn095.delta.ncsa.illinois.edu:3023764] mca:base:select:(  ras) Querying component [slurm]
+[cn095.delta.ncsa.illinois.edu:3023764] mca:base:select:(  ras) Query of component [slurm] set priority to 50
+[cn095.delta.ncsa.illinois.edu:3023764] mca:base:select:(  ras) Selected component [slurm]
+[cn095.delta.ncsa.illinois.edu:3023764] mca: base: close: unloading component simulator
+--------------------------------------------------------------------------
+An ORTE daemon has unexpectedly failed after launch and before
+communicating back to mpirun. This could be caused by a number
+of factors, including an inability to create a connection back
+to mpirun due to a lack of common network interfaces and/or no
+route found between them. Please check network connectivity
+(including firewalls and network routing requirements).
+--------------------------------------------------------------------------[cn095.delta.ncsa.illinois.edu:3023764] mca: base: close: component slurm closed
+[cn095.delta.ncsa.illinois.edu:3023764] mca: base: close: unloading component slurm

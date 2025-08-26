@@ -1,0 +1,102 @@
+/var/spool/slurmd/job11641512/slurm_script: line 15: /u/mbanisharifdehkordi/.conda/etc/profile.d/conda.sh: No such file or directory
+usage: conda [-h] [-v] [--no-plugins] [-V] COMMAND ...
+conda: error: argument COMMAND: invalid choice: 'activate' (choose from 'clean', 'compare', 'config', 'create', 'info', 'init', 'install', 'list', 'notices', 'package', 'remove', 'uninstall', 'rename', 'run', 'search', 'update', 'upgrade', 'build', 'content-trust', 'convert', 'debug', 'develop', 'doctor', 'index', 'inspect', 'metapackage', 'render', 'repoquery', 'skeleton', 'server', 'env', 'verify', 'repo', 'token')
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: components_register: registering framework ras components
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: components_register: found loaded component gridengine
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: components_register: component gridengine register function successful
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: components_register: found loaded component simulator
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: components_register: component simulator register function successful
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: components_register: found loaded component slurm
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: components_register: component slurm register function successful
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: components_open: opening ras components
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: components_open: found loaded component gridengine
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: components_open: component gridengine open function successful
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: components_open: found loaded component simulator
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: components_open: found loaded component slurm
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: components_open: component slurm open function successful
+[cn094.delta.ncsa.illinois.edu:2914684] mca:base:select: Auto-selecting ras components
+[cn094.delta.ncsa.illinois.edu:2914684] mca:base:select:(  ras) Querying component [gridengine]
+[cn094.delta.ncsa.illinois.edu:2914684] mca:base:select:(  ras) Querying component [simulator]
+[cn094.delta.ncsa.illinois.edu:2914684] mca:base:select:(  ras) Querying component [slurm]
+[cn094.delta.ncsa.illinois.edu:2914684] mca:base:select:(  ras) Query of component [slurm] set priority to 50
+[cn094.delta.ncsa.illinois.edu:2914684] mca:base:select:(  ras) Selected component [slurm]
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: close: component gridengine closed
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: close: unloading component gridengine
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: close: unloading component simulator
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+--------------------------------------------------------------------------
+Primary job  terminated normally, but 1 process returned
+a non-zero exit code. Per user-direction, the job has been aborted.
+--------------------------------------------------------------------------
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+../write_3d_nc4_pathological: error while loading shared libraries: libnetcdf.so.19: cannot open shared object file: No such file or directory
+--------------------------------------------------------------------------
+mpirun detected that one or more processes exited with non-zero status, thus causing
+the job to be terminated. The first process to do so was:
+
+  Process name: [[22663,1],0]
+  Exit code:    127
+--------------------------------------------------------------------------
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: close: component slurm closed
+[cn094.delta.ncsa.illinois.edu:2914684] mca: base: close: unloading component slurm

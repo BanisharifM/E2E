@@ -1,0 +1,33 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"darshan"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "darshan"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+[cn067.delta.ncsa.illinois.edu:1078108] mca: base: components_register: registering framework ras components
+[cn067.delta.ncsa.illinois.edu:1078108] mca: base: components_register: found loaded component simulator
+[cn067.delta.ncsa.illinois.edu:1078108] mca: base: components_register: component simulator register function successful
+[cn067.delta.ncsa.illinois.edu:1078108] mca: base: components_register: found loaded component slurm
+[cn067.delta.ncsa.illinois.edu:1078108] mca: base: components_register: component slurm register function successful
+[cn067.delta.ncsa.illinois.edu:1078108] mca: base: components_open: opening ras components
+[cn067.delta.ncsa.illinois.edu:1078108] mca: base: components_open: found loaded component simulator
+[cn067.delta.ncsa.illinois.edu:1078108] mca: base: components_open: found loaded component slurm
+[cn067.delta.ncsa.illinois.edu:1078108] mca: base: components_open: component slurm open function successful
+[cn067.delta.ncsa.illinois.edu:1078108] mca:base:select: Auto-selecting ras components
+[cn067.delta.ncsa.illinois.edu:1078108] mca:base:select:(  ras) Querying component [simulator]
+[cn067.delta.ncsa.illinois.edu:1078108] mca:base:select:(  ras) Querying component [slurm]
+[cn067.delta.ncsa.illinois.edu:1078108] mca:base:select:(  ras) Query of component [slurm] set priority to 50
+[cn067.delta.ncsa.illinois.edu:1078108] mca:base:select:(  ras) Selected component [slurm]
+[cn067.delta.ncsa.illinois.edu:1078108] mca: base: close: unloading component simulator
+[cn067.delta.ncsa.illinois.edu:1078108] mca: base: close: component slurm closed
+[cn067.delta.ncsa.illinois.edu:1078108] mca: base: close: unloading component slurm
+
+real	0m9.566s
+user	3m23.548s
+sys	1m42.944s

@@ -1,0 +1,14 @@
+=== ULTRA-OPTIMIZED WITH DARSHAN ===
+Optimizations: No fill + Large cache + Perfect stripes + Cubic layout
+Start time: Mon Aug 25 21:55:58 CDT 2025
+
+======================   ALLOCATED NODES   ======================
+	cn096: flags=0x11 slots=16 max_slots=0 slots_inuse=0 state=UP
+	cn101: flags=0x10 slots=48 max_slots=0 slots_inuse=0 state=UP
+=================================================================
+optimized_4_4_4_64_64_64.nc4 64 64 64 64 1.250000 4.266021 0.293013
+End time: Mon Aug 25 21:56:08 CDT 2025
+-rw-r-----+ 1 mbanisharifdehkordi delta_bdau 1.3G Aug 25 21:56 optimized_4_4_4_64_64_64.nc4
+Looking for Darshan log...
+WARNING: No Darshan log found!
+Checking all recent files in /u/mbanisharifdehkordi/darshan_logs:

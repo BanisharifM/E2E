@@ -1,0 +1,25 @@
+=== E2E Optimized Test WITHOUT FILL VALUES ===
+Configuration: 64 processes, 4x4x4 grid, optimized data layout
+Fill values: DISABLED (paper's optimization)
+Start time: Mon Aug 25 12:40:28 CDT 2025
+
+======================   ALLOCATED NODES   ======================
+	cn093: flags=0x11 slots=24 max_slots=0 slots_inuse=0 state=UP
+	cn094: flags=0x10 slots=40 max_slots=0 slots_inuse=0 state=UP
+=================================================================
+optimized_nofill_4_4_4_256_16_8.nc4 64 256 16 8 0.125000 2.474959 0.050506
+End time: Mon Aug 25 12:40:37 CDT 2025
+-rw-r-----+ 1 mbanisharifdehkordi delta_bdau 161M Aug 25 12:40 optimized_nofill_4_4_4_256_16_8.nc4
+optimized_nofill_4_4_4_256_16_8.nc4
+lmm_stripe_count:  4
+lmm_stripe_size:   4194304
+lmm_pattern:       raid0
+lmm_layout_gen:    0
+lmm_stripe_offset: 104
+lmm_pool:          ddn_hdd
+	obdidx		 objid		 objid		 group
+	   104	      18786139	    0x11ea75b	  0x2840000423
+	   105	      19000300	    0x121ebec	  0x2940000419
+	   100	      19364232	    0x1277988	  0x290000041a
+	    98	      22566915	    0x1585803	  0x26c000040b
+

@@ -1,0 +1,11 @@
+Clearing any existing Darshan logs...
+=== PATHOLOGICAL BASELINE ===
+Bottlenecks: Fill + Sync after each write + Bad stripe + Bad layout
+Start time: Mon Aug 25 20:39:50 CDT 2025
+End time: Mon Aug 25 20:39:50 CDT 2025
+-rw-r-----+ 1 mbanisharifdehkordi delta_bdau 21M Aug 25 20:29 pathological_64_1_1_16_16_16.nc4
+
+Looking for Darshan log...
+Trying broader search...
+ERROR: No Darshan log found!
+Listing recent files in Darshan directory:

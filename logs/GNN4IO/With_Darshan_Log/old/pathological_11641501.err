@@ -1,0 +1,4 @@
+mpirun: symbol lookup error: /u/mbanisharifdehkordi/.conda/envs/ior_env/lib/libmpi.so.40: undefined symbol: opal_hwloc201_hwloc_bitmap_isincluded
+Command exited with non-zero status 127
+0.00user 0.00system 0:00.03elapsed 24%CPU (0avgtext+0avgdata 6092maxresident)k
+0inputs+8outputs (1major+514minor)pagefaults 0swaps
