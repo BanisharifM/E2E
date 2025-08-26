@@ -22,7 +22,7 @@ echo "Bottlenecks: Fill + Sync after each write + Bad stripe + Bad layout"
 echo "Start time: $(date)"
 
 # Bad layout: 64x1x1 processes, 2x2x2048 data per process (thin tall blocks)
-time mpirun -np 64 ../write_3d_nc4_pathological pathological_64_1_1_2_2_2048 64 1 1 2 2 2048
+time mpirun -np 64 ../write_3d_nc4_pathological pathological_64_1_1_16_16_16 64 1 1 16 16 16
 
 echo "End time: $(date)"
 ls -lah pathological_64_1_1_2_2_2048.nc4

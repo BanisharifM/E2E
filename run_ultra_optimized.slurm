@@ -22,7 +22,7 @@ echo "Optimizations: No fill + Large cache + Perfect stripes + Cubic layout"
 echo "Start time: $(date)"
 
 # Perfect cubic layout: 4x4x4 processes, 128x128x128 data
-time mpirun -np 64 ../write_3d_nc4_ultra_optimized ultra_opt_4_4_4_128_128_128 4 4 4 128 128 128
+time mpirun -np 64 ../write_3d_nc4_ultra_optimized optimized_4_4_4_64_64_64 4 4 4 64 64 64
 
 echo "End time: $(date)"
 ls -lah ultra_opt_4_4_4_128_128_128.nc4

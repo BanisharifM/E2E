@@ -1,0 +1,11 @@
+=== ULTRA-OPTIMIZED ===
+Optimizations: No fill + Large cache + Perfect stripes + Cubic layout
+Start time: Mon Aug 25 19:59:43 CDT 2025
+
+======================   ALLOCATED NODES   ======================
+	cn093: flags=0x11 slots=51 max_slots=0 slots_inuse=0 state=UP
+	cn095: flags=0x10 slots=13 max_slots=0 slots_inuse=0 state=UP
+=================================================================
+ultra_opt_4_4_4_128_128_128.nc4 64 128 128 128 10.000000 11.669408 0.856941
+End time: Mon Aug 25 20:00:02 CDT 2025
+-rw-r-----+ 1 mbanisharifdehkordi delta_bdau 11G Aug 25 20:00 ultra_opt_4_4_4_128_128_128.nc4
