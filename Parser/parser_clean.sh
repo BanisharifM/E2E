@@ -19,7 +19,7 @@ fi
 
 # Define paths
 ROOT_DIR="/work/hdd/bdau/mbanisharifdehkordi/E2E"
-INPUT_DIR="$ROOT_DIR/Parser"
+INPUT_DIR="$ROOT_DIR/Parser/case2"
 OUTPUT_CSV="$INPUT_DIR/parsed.csv"
 SAMPLE_CSV="$ROOT_DIR/Parser/sample_train_100.csv"
 TEMP_DIR="/tmp/darshan_parse_${SLURM_JOB_ID}"
