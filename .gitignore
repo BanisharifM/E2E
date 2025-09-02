@@ -5,3 +5,4 @@ __pycache__/
 archive/
 *.tmp
 *.nc4
+*.nc4
