@@ -1,1 +1,7 @@
 3d/result*
+*.log
+__pycache__/
+.ipynb_checkpoints/
+archive/
+*.tmp
+*.nc4
